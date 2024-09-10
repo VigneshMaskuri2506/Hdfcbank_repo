@@ -1,1 +1,13 @@
+
 changes to jenkin file after stash
+stages 
+{
+
+Stage 1{
+        }
+
+Stage 2{
+        }
+
+}//
+
